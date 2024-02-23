@@ -1,12 +1,12 @@
 /********** Template CSS **********/
 body {
     font-family: 'Kanit';font-size: 22px;
-    padding: 100px;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
     padding: auto;
     overflow: auto;
+    background-image: url('../img/bg.webp');
 }
 :root {
     --primary: #fa7304;
